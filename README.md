@@ -2,11 +2,10 @@
 
 #### Hola, soy Iván y estos son algunos datos sobre mí:
 
-- 👨‍🎓 Cursando Grado Superior en Desarrollo de Aplicaciones Multiplataforma
-- :books: Aprendiendo Spring Boot 2 & Spring MVC-Desarrollo web profesional(2021)
+- 👨‍🎓 Grado Superior en Desarrollo de Aplicaciones Multiplataforma
 - 🎓 Diplomatura en Educación Física y máster en dirección de instalaciones deportivas.
-- 👨‍💼 Trabajo a tiempo completo como gestor deportivo con más de 10 años de experiencia.
-- 👨‍💼 Próximo objetivo profesional, trabajar como desarrollador de aplicaciones.
+- 👨‍💼 Gestor deportivo con más de 10 años de experiencia.
+- 👨‍💼 Próximo objetivo profesional, trabajar como desarrollador multiplataforma a tiempo completo.
 
 #### :mailbox: Puedes contactarme a través de los siguientes enlaces:
 
