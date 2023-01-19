@@ -2,12 +2,10 @@
 
 ### Hola, soy Iván y estos son algunos datos sobre mí:
 
-- 💼 Becario en Telefónica Global Technology
-- 📚 Aprendiendo Desarrollo de apps Low-Code - Appian
-- 📖 Aprendiendo desarrollo de apps con Flutter - Dart
+- 💼 Appian Certified Developer en CoE de Telefónica Global Technology
+- 📖 App en play Store (iMovie: Movie information) con Flutter - Dart
 - 🎓 Grado Superior en Desarrollo de Aplicaciones Multiplataforma
 - 🎓 Diplomatura en Educación Física y máster en dirección de instalaciones deportivas.
-- 👨‍💼 Gestor deportivo con más de 10 años de experiencia.
 
 
 ### Puedes contactarme a través de los siguientes enlaces: :mailbox: 
